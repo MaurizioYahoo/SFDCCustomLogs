@@ -1,5 +1,5 @@
 public class UtilCustomLog {
-    // Script made by ...
+    // Script made by Maurizio Bella!
     // version number
     // is still missing: 
         // custom settings to set the right log level

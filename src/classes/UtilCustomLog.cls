@@ -1,6 +1,6 @@
 public class UtilCustomLog {
     // Script made by Maurizio Bella!
-    // version number 03 from SubLime
+    // version number 04 Eclise finally
     // is still missing: 
         // custom settings to set the right log level
         // visualforce page to access to log

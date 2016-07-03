@@ -1,6 +1,6 @@
 public class UtilCustomLog {
     // Script made by Maurizio Bella!
-    // version number 01
+    // version number 02 from eclipse
     // is still missing: 
         // custom settings to set the right log level
         // visualforce page to access to log

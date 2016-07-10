@@ -1,27 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>*</members>
+        <members>AccountTriggerHandler</members>
+        <members>OpportunityTriggerHandler</members>
+        <members>Temp01</members>
+        <members>TriggerHandler</members>
+        <members>TriggerHandler_Test</members>
+        <members>UtilCustomLog</members>
         <name>ApexClass</name>
     </types>
     <types>
-        <members>*</members>
-        <name>ApexComponent</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>ApexPage</name>
-    </types>
-    <types>
-        <members>*</members>
+        <members>OpportunityTrigger</members>
         <name>ApexTrigger</name>
     </types>
     <types>
-        <members>*</members>
-        <name>StaticResource</name>
-    </types>
-    <types>
-        <members>*</members>
+        <members>UtilCustomLogCustomSet__c</members>
         <name>CustomObject</name>
     </types>
     <version>35.0</version>
